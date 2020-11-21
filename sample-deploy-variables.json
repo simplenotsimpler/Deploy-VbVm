@@ -1,0 +1,21 @@
+{
+  "UserData":[
+    {
+      "Hostname": "<your host name>",
+      "Username": "<your username>",
+      "Passwd": "<your hashed password here>",
+      "SSHKey": "<your SSH key here>",
+      "IP": "<your static IP>"
+    }
+  ],
+
+  "PackerParams":[
+    {
+      "IsoCheckSum": "<IsoCheckSum here>",
+      "IsoUrl": "<IsoUrl here>",
+      "HttpDirectory": "<HttpDirectory here>",
+      "ShutdownTimeOut": "<ShutdownTimeOut here",
+      "OutFile": "<OutFile here>"
+    }
+  ]  
+}
